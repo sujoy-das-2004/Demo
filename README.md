@@ -1,4 +1,4 @@
 # Demo
 This is my First project
 <br>
-Author - Sujoy dey
+Author - Sujoy das
